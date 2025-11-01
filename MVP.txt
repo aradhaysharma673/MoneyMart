@@ -1,0 +1,21 @@
+PROJECT: Finance & Investment Website MVP
+
+TARGET USERS:
+- Indian retail investors (beginner to intermediate)
+- Age group: 25-50 years
+- Tech-savvy, comfortable with digital platforms
+- Annual income: ₹5L - ₹50L+
+
+PROBLEM STATEMENT:
+Users lack a simple, unified platform to track investments across multiple asset classes (stocks, mutual funds, ETFs) and get real-time insights.
+
+UNIQUE VALUE PROPOSITION:
+Simple, intuitive Indian investment tracking platform with real-time data and zero platform fees
+
+CORE USER WORKFLOWS:
+1. Sign up → Complete KYC → Build portfolio → Track performance
+2. Search stock → Add to watchlist → Monitor → Execute trade
+3. View portfolio → Analyze allocation → Make decisions
+
+ESTIMATED TIMELINE: 8-10 weeks
+ESTIMATED COST: ₹3-5 lakhs (if outsourced) or minimal if self-developed
